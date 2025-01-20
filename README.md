@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ('*') in React Router v6.  The problem arises when the catch-all route doesn't behave as expected, failing to render the 404 page for unmatched routes. The solution showcases a simple correction to ensure the catch-all route functions correctly.
